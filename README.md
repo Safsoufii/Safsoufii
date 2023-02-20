@@ -34,8 +34,8 @@ Here are some of the projects I have worked on:
 
 Feel free to get in touch with me if you have any questions or if you would like to collaborate on a project.
 
-* Email: {safacodes@hotmail.com}
-* LinkedIn: [linkedin.com/in/{Safa Husain - Front-End Developer}](https://www.linkedin.com/in/safa-husain-front-end-developer-8b7b08141/)
+* Email: safacodes@hotmail.com
+* LinkedIn: [linkedin.com/in/{Safa Husain - Front-End Developer](https://www.linkedin.com/in/safa-husain-front-end-developer-8b7b08141/)
 
 
 Thank you for taking the time to visit my profile. I look forward to connecting with you!
