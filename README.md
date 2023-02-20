@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <img src="https://github.com/{username}/{username}/blob/main/assets/header.jpg" alt="Header image">
+  <img src="https://avatars.githubusercontent.com/u/123556324?v=4" alt="Header image">
 </p>
 
 ## About Me
@@ -35,10 +35,7 @@ Here are some of the projects I have worked on:
 Feel free to get in touch with me if you have any questions or if you would like to collaborate on a project.
 
 * Email: {email}
-* LinkedIn: [linkedin.com/in/{username}](https://www.linkedin.com/in/{username}/)
+* LinkedIn: [linkedin.com/in/{username}](https://www.linkedin.com/in/safa-husain-front-end-developer-8b7b08141/)
 
-<p align="center">
-  <img src="https://github.com/{username}/{username}/blob/main/assets/contact.jpg" alt="Contact section">
-</p>
 
 Thank you for taking the time to visit my profile. I look forward to connecting with you!
