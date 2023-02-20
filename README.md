@@ -1,9 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123556324?v=4" alt="Header image">
-</p>
-
 ## About Me
 
 I am a motivated front-end developer based in London with a background in architecture and construction. With a passion for creating engaging and visually appealing user interfaces, I have transitioned to the field of web development to further pursue this passion. 
