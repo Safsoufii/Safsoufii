@@ -27,7 +27,7 @@ Here are some of the projects I have worked on:
 * [Project 1](https://github.com/Safsoufii/finalCapstone/{Safsoufii}/{project-1}) - A web app that allows users to search for recipes based on ingredients.
 
 <p align="center">
-  <img src="https://github.com/{username}/{username}/blob/main/assets/projects.jpg" alt="Projects screenshot">
+  <img src="screenshot.jpg" alt="Projects screenshot">
 </p>
 
 ## Contact Me
